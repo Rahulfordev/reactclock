@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reactclock/static/js/main.e1718a85.chunk.js",
+    "main.js.map": "/reactclock/static/js/main.e1718a85.chunk.js.map",
+    "runtime-main.js": "/reactclock/static/js/runtime-main.11c7cdec.js",
+    "runtime-main.js.map": "/reactclock/static/js/runtime-main.11c7cdec.js.map",
+    "static/js/2.f874d110.chunk.js": "/reactclock/static/js/2.f874d110.chunk.js",
+    "static/js/2.f874d110.chunk.js.map": "/reactclock/static/js/2.f874d110.chunk.js.map",
+    "index.html": "/reactclock/index.html",
+    "static/js/2.f874d110.chunk.js.LICENSE.txt": "/reactclock/static/js/2.f874d110.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c7cdec.js",
+    "static/js/2.f874d110.chunk.js",
+    "static/js/main.e1718a85.chunk.js"
+  ]
+}
